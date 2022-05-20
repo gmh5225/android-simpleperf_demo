@@ -1,5 +1,7 @@
 # Examples of using simpleperf to profile android applications
 
+https://android.googlesource.com/platform/system/extras/+/refs/heads/simpleperf-release/simpleperf/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
