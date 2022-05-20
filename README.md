@@ -1,7 +1,9 @@
 # Examples of using simpleperf to profile android applications
 
 https://android.googlesource.com/platform/system/extras/+/refs/heads/simpleperf-release/simpleperf/
-
+```
+simpleperf stat -e dTLB-loads,dTLB-load-misses,iTLB-loads,iTLB-load-misses,L1-icache-load-misses,page-faults -p pid
+```
 ## Table of Contents
 
 - [Introduction](#introduction)
